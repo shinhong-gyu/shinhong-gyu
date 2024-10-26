@@ -4,7 +4,7 @@
 <h3 align="left">A Game Developer from Korea</h3>
 
 - 📫 How to reach me **shin02198@gmail.com**
-- 💬 Ask me about **UE5**
+- 💬 Ask me about UE5
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
