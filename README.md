@@ -1,7 +1,7 @@
 ## About Me
 
-<h1 align="center">Hi 👋, I'm HongGyu Shin</h1>
-<h3 align="center">A passionate UE5 frontend developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm HongGyu Shin</h1>
+<h3 align="left">A Game Developer from Korea</h3>
 
 - 📫 How to reach me **shin02198@gmail.com**
 
